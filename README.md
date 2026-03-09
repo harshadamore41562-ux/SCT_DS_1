@@ -19,7 +19,7 @@ The dataset is sourced from the World Bank (World Development Indicators).
 - `india_population_data.csv` → Cleaned dataset containing population data.  
 - `task01_india_population.py` → Python script for data processing and visualization.  
 - `README.md` → Project documentation.  
-- `skill carft task-1.png` → Output chart showing India’s population growth.
+- `india_population_chart.png` → Output chart showing India’s population growth.
 
 ### 📊 Steps Performed
 1. Loaded the dataset using pandas.  
