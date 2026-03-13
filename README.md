@@ -35,6 +35,7 @@ Here is an example of India’s population distribution by age in 2022:
 - **21–64 Years:** 807 Mn (57.0%)  
 - **65+ Years:** 98 Mn (6.9%)
 
+### For Example
 ![India Population Chart](india_population_chart.png)
 
 *Figure: India’s population growth from 1960–2024.*
